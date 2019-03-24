@@ -1,4 +1,4 @@
-The data file for this program "shape_predictor_68_face_landmarks.dat" has not been uploaded due to its large size.
+The data file "shape_predictor_68_face_landmarks.dat" for this program has not been uploaded due to its large size.
 
 You can download it from:
 
